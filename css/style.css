@@ -205,6 +205,8 @@ a:hover {
           box-shadow: inset 0 1px 0 #e6e6e6;
   background-color: #fbfbfb;
   padding-bottom: 20px; }
+  .footer__social-ico {
+    padding-bottom : 25px; }
   .footer__social-ico a {
     margin-left: 20px; }
     .footer__social-ico a:first-child {
